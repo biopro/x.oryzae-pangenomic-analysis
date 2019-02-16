@@ -2,7 +2,7 @@
 ## A pangenomic analysis of the *X. oryzae* patovars *oryzae* and *oryzicola* as a tool to identify pathovar-specific adaptations
 ### Datasets
 
-Sub-sets of the pangenome calculated for the *X. oryzae* species and for the pathovar *oryzae* and *oryzicola* based on the results of each algorithm used in GET_HOMOLOGUES. **Core-genome** comprises all genes present in at least 50% of the strains in both pathovars (for the species), or in each pathovar. **Exclusive core-genome** are those genes that are conserved in at least 95% of the strain in one pathovar but not in the other. **Exclusive genome** are those present in at least 95% of the strain in one pathovar but present in only 5% or less in the other pathovar. Theses sequences are available in the `datasets/` directory.
+Sub-sets of the pangenome calculated for the *X. oryzae* species and for the pathovar *oryzae* and *oryzicola* based on the results of each algorithm used in GET_HOMOLOGUES. **Core-genome** comprises all genes present in at least 50% of the strains in both pathovars (for the species), or in each pathovar. **Exclusive core-genome** are those genes that are conserved in at least 95% of the strain in one pathovar but not in the other. **Exclusive genome** are those present in at least 95% of the strain in one pathovar but present in only 5% or less in the other pathovar. Theses sequences are available in the (`datasets/`)[datasets/] directory.
 
 | **Organism** | **Sub-sets** | **BDBH** | **COG** | **OMCL** | **Consensus** |
 | --- | --- | --- | --- | --- | --- |
